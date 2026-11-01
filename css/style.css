@@ -1947,7 +1947,6 @@ nav.nav-links a[aria-current="page"]:not(.btn) {
   background-image: url("../assets/hero-img.jpg");
   background-size: cover;
   background-position: center 30%;
-  opacity: 70%;
   z-index: 0;
 }
 .hero::after {
@@ -2343,7 +2342,6 @@ nav.nav-links a[aria-current="page"]:not(.btn) {
     padding: 35px 0 55px;
   }
   .hero-bg {
-    opacity: 70%;
     background-position: right center;
   }
   .hero-copy h1 {
