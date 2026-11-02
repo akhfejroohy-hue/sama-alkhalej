@@ -1,5 +1,5 @@
 (() => {
-  const WHATSAPP_NUMBER = "966562752902";
+  const WHATSAPP_NUMBER = "201068480441";
   const form = document.querySelector("#booking-form");
   if (!form) return;
 
