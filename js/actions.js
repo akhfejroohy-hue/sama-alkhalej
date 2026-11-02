@@ -9,7 +9,7 @@
       ? `أريد حجز موعد لخدمة ${selectedService}`
       : "أريد حجز موعد",
   ].join("\n");
-  const whatsappUrl = `https://wa.me/966562752902?text=${encodeURIComponent(message)}`;
+  const whatsappUrl = `https://wa.me/201068480441?text=${encodeURIComponent(message)}`;
 
   bar.className = "action-bar";
   bar.setAttribute("aria-label", "التواصل السريع");
